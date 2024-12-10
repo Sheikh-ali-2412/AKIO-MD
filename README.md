@@ -100,7 +100,7 @@
 **𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
 <p align="centre">
   <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z">
-    <img align="left" alt="MALVIN | Youtube" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Youtube.svg" />
+    <img align="left" alt="MALVIN | Whatsapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/WhatsApp.svg" />
   
 
    
